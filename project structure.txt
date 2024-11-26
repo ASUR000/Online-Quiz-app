@@ -1,0 +1,28 @@
+
+OnlineGKQuiz/
+├── src/
+│   ├── dao/
+│   │   ├── DBConnection.java
+│   │   ├── QuestionDAO.java
+│   │   ├── UserDAO.java
+│   ├── model/
+│   │   ├── Question.java
+│   │   ├── User.java
+│   ├── servlet/
+│   │   ├── LoginServlet.java
+│   │   ├── RegisterServlet.java
+│   │   ├── QuizServlet.java
+│   │   ├── ResultServlet.java
+├── web/
+│   ├── css/
+│   │   ├── styles.css
+│   ├── js/
+│   │   ├── script.js
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   ├── quiz.html
+│   ├── result.html
+├── sql/
+│   ├── schema.sql
+└── pom.xml
